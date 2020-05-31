@@ -1,5 +1,5 @@
 #include <DigiMouse.h>
-// The central LED in Digispark
+// The central LED on Digispark Board
 #define LEDPIN 1
 
 const int MOVEMENT_DISTANCE = 5; // pixel
